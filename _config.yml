@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+title: GitHub Pages チュートリアル
+description：自己紹介　　佐藤　健
+github:
+   is_project_page: false
