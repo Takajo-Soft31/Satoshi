@@ -1,8 +1,7 @@
 # ソフトウェア工学　演習
   徳山高専　2018.10.16
   
-<img src="kao.png"alt="顔" title="顔"
-width="200"height="200"/>
+<img src="kao.png"alt="顔" title="顔"width="200"height="200"/>
 
 
 google >
