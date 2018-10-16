@@ -1,7 +1,7 @@
 # ソフトウェア工学　演習
   徳山高専　2018.10.16
   
-googgle >
+google >
 [google](https://www.google.com/)
 
 これは<span style="color: red;">赤文字</span>です
